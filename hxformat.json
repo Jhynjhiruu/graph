@@ -1,0 +1,8 @@
+{
+    "whitespace": {
+        "typeHintColonPolicy": "after"
+    },
+    "sameLine": {
+        "expressionIfWithBlocks": true
+    }
+}

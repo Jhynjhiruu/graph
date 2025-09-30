@@ -1,0 +1,3 @@
+<vbox style="padding: 5px;" width="100%" height="100%">
+    <graph id="graph" width="100%" height="100%" />
+</vbox>

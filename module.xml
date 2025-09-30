@@ -1,0 +1,5 @@
+<module>
+    <components>
+        <component class="graph.Graph" />
+    </components>
+</module>
